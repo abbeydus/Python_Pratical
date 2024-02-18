@@ -47,3 +47,5 @@ python
 Copy code
 PI = 3.14
 Variables play a crucial role in programming, allowing you to store and manipulate data in your code. Understanding how to use variables effectively is fundamental to writing Python programs.
+
+nnnnn

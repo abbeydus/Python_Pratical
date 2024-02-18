@@ -44,7 +44,6 @@ use continue statements inside a for loop to skip the execution of the for loop 
 while
 '''
 # num = 0
-
 # while num < 5: ## while num is less than 5
 #     num = num +1
 #     print(f'number = {num}')
